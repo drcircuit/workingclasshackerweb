@@ -13,6 +13,8 @@ function showPage(name) {
                 hidePage(p);
             }
         });
+    } else {
+        links.forEach(hidePage);
     }
 }
 
