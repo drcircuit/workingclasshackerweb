@@ -72,18 +72,19 @@ body{
 .page{
     width: 50%;
     margin: 0 auto;
-    background: rgba(66,151,199,0.2);
-    padding:20px;
+    background: rgba(66,151,199,0.7);
+    padding: 50px 10px;
     color: white;
     font-family: sans-serif;
-    font-size: 16pt;
+    font-size: 13pt;
 }
 .page h1{
-    margin: 0;
-    text-align: center;
+    margin: 0 auto;
+    text-align: left;
     font-size: 20pt;
     margin-bottom: 10px;
-    color: #00b3ee;
+    width:80%;
+    color: #25ebff
 }
 
 
@@ -110,9 +111,9 @@ body{
     display: none;
 }
 .page p{
-    text-align: justify;
     width: 80%;
     display: table;
+    font-family: 'Poiret One', sans-serif;
     margin: auto;
 }
 .page p:after {
@@ -121,7 +122,7 @@ body{
     width: 80%;
 }
 .page a{
-    color: #00b3ee;
+    color: #4eff92;
     text-decoration: none;
     cursor: hand;
 
