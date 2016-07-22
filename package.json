@@ -1,0 +1,23 @@
+{
+  "name": "workingclasshackerwww",
+  "version": "1.0.0",
+  "description": "My personal webpage",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drcircuit/workingclasshackerweb.git"
+  },
+  "keywords": [
+    "Personal",
+    "Website"
+  ],
+  "author": "Espen Sande Larsen",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/drcircuit/workingclasshackerweb/issues"
+  },
+  "homepage": "https://github.com/drcircuit/workingclasshackerweb#readme"
+}

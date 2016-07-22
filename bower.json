@@ -1,0 +1,25 @@
+{
+  "name": "workingclasshackerwww",
+  "description": "My personal webpage",
+  "main": "index.html",
+  "authors": [
+    "Espen Sande Larsen"
+  ],
+  "license": "CC0-1.0",
+  "keywords": [
+    "Personal",
+    "Website"
+  ],
+  "homepage": "https://github.com/drcircuit/workingclasshackerweb",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
